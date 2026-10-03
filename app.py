@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("logo.jpg")
 # =========================
 # CẤU HÌNH TRANG
 # =========================
@@ -12,7 +12,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM của Lê Thị Đỗ Quyên")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi.")
 
 st.divider()
